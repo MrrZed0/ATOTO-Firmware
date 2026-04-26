@@ -1,5 +1,5 @@
 # ATOTO-Firmware
-ATOTO S8G2B74PM(3G+32G) Firmware From ATOTO Support (2026)
+ATOTO S8G2B74PM (3G+32G) Firmware From ATOTO Support (2026)
 Dear customer
 
 Here are the update instructions:
