@@ -23,7 +23,7 @@ Download the latest firmware package:
 
 
 # Prepare USB / SD Card
-1. Use a USB flash drive or SD card (max 128GB recommended).
+1. Use a USB flash drive or SD card (16GB recommended).
 2. Format it to FAT32.
 3. Copy all extracted files directly to the root directory (not inside any folder).
 
