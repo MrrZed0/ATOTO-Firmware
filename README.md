@@ -57,3 +57,5 @@ This firmware is provided as-is and was originally supplied by ATOTO support. By
 * ⚠️ Proceed at your own risk.
 
 If you are unsure about your device model, do not continue—verify with ATOTO support first.
+
+![Image](https://github.com/MrrZed0/ATOTO-Firmware/blob/main/How_To_Update_001.png?raw=true)
