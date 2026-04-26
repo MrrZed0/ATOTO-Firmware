@@ -30,3 +30,5 @@ NOTE:
 3.If you have downloaded other files in USB stick/SD card before, please delete them all first, ensure USB stick is empty and clean
 
 4.Do not interrupt the power supply during the update process. Otherwise, the device may be damaged.
+
+Download Link: https://drive.google.com/file/d/1mRo-LMyr6mn5bUQIy-qvocv_YTFar2_4/view?usp=sharing
