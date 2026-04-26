@@ -3,19 +3,18 @@ ATOTO S8G2B74PM (3G+32G) Firmware From ATOTO Support (2026)
 
 Official firmware update package and instructions for the ATOTO S8G2B74PM (3G+32G) head unit, provided by ATOTO support.
 
-📦 Firmware Information
+# 📦 Firmware Information
 * Device Model: ATOTO S8G2B74PM
 * Memory Configuration: 3GB RAM + 32GB Storage
 * Source: ATOTO Support
 * Update Type: System Firmware Update
 
-⬇️ Download
-
+# ⬇️ Download
 Download the latest firmware package:
 * https://drive.google.com/file/d/1mRo-LMyr6mn5bUQIy-qvocv_YTFar2_4/view?usp=sharing
 
-🛠️ Update Instructions
-# Prepare Files
+# 🛠️ Update Instructions
+Prepare Files
 2. Download the .zip firmware package.
 3. Extract the contents on your computer.
 4. After extraction, you should see 3 files, including an update .zip file.
@@ -33,15 +32,15 @@ Download the latest firmware package:
 2. Wait for the system to detect the update automatically.
 3. Tap "Start" when prompted to begin the update.
 
-⏳ Update Duration
+# ⏳ Update Duration
 * The update process takes approximately 10 minutes.
 
-✅ Completion
+# ✅ Completion
 * When the update is successful, the screen will display: update success! Pls remove device (12)
 * Remove the USB/SD device.
 * The unit will reboot automatically.
 
-⚠️ Important Notes
+# ⚠️ Important Notes
 * 🔋 Ensure stable power during the update (do not turn off the vehicle).
 * 💾 Use a clean, empty USB/SD card.
 * 🧹 Delete any existing files before copying the update files.
