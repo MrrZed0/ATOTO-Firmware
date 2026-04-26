@@ -14,7 +14,7 @@ Download the latest firmware package:
 * https://drive.google.com/file/d/1mRo-LMyr6mn5bUQIy-qvocv_YTFar2_4/view?usp=sharing
 
 # 🛠️ Update Instructions
-Prepare Files
+1. Prepare Files
 2. Download the .zip firmware package.
 3. Extract the contents on your computer.
 4. After extraction, you should see 3 files, including an update .zip file.
