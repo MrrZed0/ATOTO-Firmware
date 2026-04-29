@@ -12,6 +12,7 @@ Official firmware update package and instructions for the ATOTO S8G2B74PM (3G+32
 # ⬇️ Download
 Download the latest firmware package:
 * https://drive.google.com/file/d/1mRo-LMyr6mn5bUQIy-qvocv_YTFar2_4/view?usp=sharing
+* https://mrzed0.com/wp-content/uploads/6315-SYSTEM20250926-APP20251215.zip
 
 # 🛠️ Update Instructions
 1. Prepare Files
